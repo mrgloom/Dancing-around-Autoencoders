@@ -18,6 +18,8 @@ https://groups.google.com/forum/#!topic/caffe-users/GhrCtONcRxY
 
 http://siavashk.github.io/2016/02/22/autoencoder-imagenet/
 https://github.com/siavashk/imagenet-autoencoder
+
+https://github.com/nanopony/keras-convautoencoder
 ~~~
 
 Variational Autoencoder
