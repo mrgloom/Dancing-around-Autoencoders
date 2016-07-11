@@ -22,6 +22,8 @@ https://github.com/siavashk/imagenet-autoencoder
 https://github.com/nanopony/keras-convautoencoder
 
 https://github.com/rasmusbergpalm/DeepLearnToolbox/tree/master/CAE
+
+https://github.com/Kaixhin/Autoencoders
 ~~~
 
 Variational Autoencoder
