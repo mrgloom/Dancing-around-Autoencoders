@@ -29,6 +29,7 @@ https://github.com/Kaixhin/Autoencoders
 Variational Autoencoder
 
 https://jmetzen.github.io/2015-11-27/vae.html
+https://github.com/BenBBear/tensorflow_CVAE
 
 Stacked Denoising Autoencoders
 
