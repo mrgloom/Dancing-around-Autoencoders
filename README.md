@@ -31,10 +31,15 @@ https://github.com/pkmital/tensorflow_tutorials/blob/master/python/09_convolutio
 
 Variational Autoencoder
 
+~~~
 https://jmetzen.github.io/2015-11-27/vae.html
 https://github.com/BenBBear/tensorflow_CVAE
+~~~
 
 Stacked Denoising Autoencoders
 
-
+Structured Variational Autoencoders
+~~~
+https://github.com/mattjj/svae
+~~~
 
