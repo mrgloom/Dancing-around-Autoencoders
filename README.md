@@ -37,6 +37,9 @@ https://github.com/BenBBear/tensorflow_CVAE
 ~~~
 
 Stacked Denoising Autoencoders
+~~~
+https://github.com/shengxingdong/SDA
+~~~
 
 Structured Variational Autoencoders
 ~~~
