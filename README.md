@@ -46,3 +46,7 @@ Structured Variational Autoencoders
 https://github.com/mattjj/svae
 ~~~
 
+To look at:
+~~~
+https://github.com/cmgreen210/TensorFlowDeepAutoencoder
+~~~
